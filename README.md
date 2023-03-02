@@ -1,4 +1,4 @@
-0x1D. C - Binary tree
+0x1D. C - Binary trees
 C
 Group project
 Algorithm
