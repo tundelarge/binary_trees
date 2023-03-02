@@ -28,7 +28,7 @@ int btih_helper(const binary_tree_t *tree)
 	if (!tree)
 		return (1);
 
-	if (!binary_tree_is_complete(tree))
+	if (!binary_tree_is_complete(tre))
 		return (0);
 
 	if (tree->left)
