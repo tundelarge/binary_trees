@@ -26,7 +26,7 @@ binary_tree_t *binary_tree_uncle(binary_tree_t *node)
  *         NULL if the parent is NULL
  *         NULL if the node has no siblings
  */
-binary_tree_t *binary_tree_sibling(binary_tree_t *nod)
+binary_tree_t *binary_tree_sibling(binary_tree_t *node)
 {
 	if (!node || !node->parent)
 		return (NULL);
